@@ -11,8 +11,13 @@
 
 This is a clean and modern portfolio crafted with HTML, CSS, and JavaScript to showcase my skills and projects effectively and attractively. Created at the age of 13, this project was a personal challenge, particularly for creating the visual effect of my name, "MARTIAL".
 
+![Preview](https://github.com/Martial4034/Old-minimalist-portfolio/blob/main/img/preview.png)
+
 ### Concept
 The main effect of the site is inspired by old film reels. It features an image made up of several 'M' letters which gradually transform to spell out my entire name. JavaScript animates this transformation by moving a small square across the image, simulating the movement of a film reel.
+
+![Sprite Effect](https://github.com/Martial4034/Old-minimalist-portfolio/blob/main/img/sprite.png)
+
 
 ### Technologies Used
 - **HTML** : Basic structure of the portfolio.
