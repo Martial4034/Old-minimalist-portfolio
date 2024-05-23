@@ -13,6 +13,8 @@ Ce portfolio est une réalisation sobre et moderne qui utilise HTML, CSS et Java
 ### Concept
 L'effet principal du site est inspiré par les anciens films sur pellicule. Il utilise une image composée de plusieurs lettres 'M' qui se transforment progressivement pour écrire tout mon prénom. Le JavaScript anime cette transformation en déplaçant un petit carré sur l'image, simulant ainsi le mouvement d'une pellicule de film.
 
+![SpriteEffect](https://github.com/Martial4034/Old-minimalist-portfolio/blob/main/img/sprite.png)
+
 ### Technologies Utilisées
 - **HTML** : Structure de base du portfolio.
 - **CSS** : Styles pour créer une apparence sobre et moderne.
