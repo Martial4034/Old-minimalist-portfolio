@@ -6,7 +6,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
-## [French version of README.MD](https://github.com/Martial4034/Old-minimalist-portfolio/README.md)
+## [French version of README.MD](https://github.com/Martial4034/Old-minimalist-portfolio/blob/main/README.md)
 
 
 This is a clean and modern portfolio crafted with HTML, CSS, and JavaScript to showcase my skills and projects effectively and attractively. Created at the age of 13, this project was a personal challenge, particularly for creating the visual effect of my name, "MARTIAL".
