@@ -10,6 +10,8 @@
 
 Ce portfolio est une réalisation sobre et moderne qui utilise HTML, CSS et JavaScript pour présenter mes compétences et projets de manière efficace et attrayante. Réalisé à l'âge de 13 ans, ce projet a représenté un défi personnel, notamment pour la création de l'effet visuel de mon prénom, "MARTIAL".
 
+![Preview](https://github.com/Martial4034/Old-minimalist-portfolio/blob/main/img/preview.png)
+
 ### Concept
 L'effet principal du site est inspiré par les anciens films sur pellicule. Il utilise une image composée de plusieurs lettres 'M' qui se transforment progressivement pour écrire tout mon prénom. Le JavaScript anime cette transformation en déplaçant un petit carré sur l'image, simulant ainsi le mouvement d'une pellicule de film.
 
